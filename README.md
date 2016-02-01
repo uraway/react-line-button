@@ -1,8 +1,9 @@
 # react-line-button
 Simple React components for LINE Button.
 
-**このボタンはスマホ専用です｡** PCユーザーに対しては正常に動作しません｡
-**This component is aimed for smart phone users.** It does not work for PC users.
+
+- **このボタンはスマホ専用です｡** PCユーザーに対しては正常に動作しません｡
+- **This component is aimed for smart phone users.** It does not work for PC users.
 
 ## インストール Install
 ```
@@ -28,7 +29,7 @@ class App extends React.Component {
 
 ### テクスト text
 
-送信する内容を指定します｡ 原則､ ページタイトル､ ページURLの指定が可能です｡
+送信する内容を指定します｡ 原則､ ページタイトル､ ページURLの指定が可能です｡<br>
 The text you want to share. You can only specify the page title and page URL.
 
 - [ガイドライン](https://media.line.me/guideline/ja/)
@@ -36,7 +37,8 @@ The text you want to share. You can only specify the page title and page URL.
 
 ### 画像 image
 
-ボタンとして表示する画像のサイズを指定します｡
+ボタンとして表示する画像のサイズを指定します｡<br>
+Specify size of the image you want to use as LINE button.
 
 ##### 20x20
 ![20x20](./images/linebutton_20x20.png)
@@ -53,4 +55,5 @@ The text you want to share. You can only specify the page title and page URL.
 ##### 82x20
 ![82x20](./images/linebutton_82x20.png)
 
+---
 MIT licensed
