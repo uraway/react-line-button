@@ -1,3 +1,6 @@
+This module will be duprecated soon. Use [react-social-sharebuttons](https://github.com/uraway/react-social-sharebuttons)
+
+
 # react-line-button
 Simple React components for LINE Button.
 
